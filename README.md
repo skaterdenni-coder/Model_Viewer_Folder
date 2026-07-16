@@ -15,7 +15,7 @@ Ein webbasierter 3D-Modell-Viewer, der es ermöglicht, ganze Ordner mit .glb-Dat
 * **Responsive Design:** Optimiert für Desktop und mobile Endgeräte.
 
 ---
-
+Aufruf: https://skaterdenni-coder.github.io/Model_Viewer_Folder/ 
 ## Technologien
 
 * **Framework:** Google Model Viewer
@@ -46,7 +46,7 @@ Da es sich um eine reine Client-seitige HTML-Datei handelt, ist keine Installati
 * **Dateiformat:** Nur .glb (glTF Binary) wird unterstützt.
 * **Internetverbindung:** Erforderlich für das Laden der Skripte (CDN) und den Cloud-Upload.
 * **AR-Support:** Ein AR-fähiges Mobilgerät (Android mit ARCore oder iOS mit ARKit).
-* **Gültigkeit:** Da Litterbox genutzt wird, werden hochgeladene Dateien nach 24 Stunden automatisch gelöscht.
+* **Gültigkeit:** Da Externer Dienst genutzt wird, werden hochgeladene Dateien nach 24 Stunden automatisch gelöscht.
 
 ---
 
